@@ -7,3 +7,7 @@ Kafka:
     Stream Processing
     Event Sourcing
     Commit Log
+    Messaging
+   Read the data from above types and apply slight processing on them
+   After processing dump the data into flat files, Oracle 12c, Cassandra and MongoDB targets
+   
