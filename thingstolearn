@@ -10,4 +10,4 @@ Kafka:
     Messaging
    Read the data from above types and apply slight processing on them
    After processing dump the data into flat files, Oracle 12c, Cassandra and MongoDB targets
-   
+   Documentation of various use cases and differences from flume and spark streaming
