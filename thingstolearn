@@ -1,0 +1,9 @@
+Kafka:
+   Installation of Kafka on the cluster
+   Streaming data from various sources such as:
+    Website Activity Tracking
+    Metrics
+    Log Aggregation
+    Stream Processing
+    Event Sourcing
+    Commit Log
