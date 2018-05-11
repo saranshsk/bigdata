@@ -1,1 +1,1 @@
-# bigdata
+# This is the github repository for learn from techtube a.k.a techietech. Here you would find end to end documents for setting up your own cluster with wide selection of tools and frameworks. The repository also has a ip-address.txt file which links to a live cluster for learning purposes.
